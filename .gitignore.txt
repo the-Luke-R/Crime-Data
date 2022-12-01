@@ -1,0 +1,5 @@
+MapaLimeira.html
+chromedriver_win32.zip
+chromedriver.exe
+.gitignore.txt
+pegar manchetes nos 2 com loop - Copia.py
